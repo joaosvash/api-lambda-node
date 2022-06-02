@@ -10,6 +10,11 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+#Estimados
+El la carpeta SRC es un CRUD realizado con NODE.JS labmda realizado por mi persona, el cual es una guia para llegar a entender los solicitado en la carpeta Swapi, que es donde esta lo correspondiente a lo solicitado en el reto tecnico
+
+
+
 # Serverless Framework Node HTTP API on AWS
 
 This template demonstrates how to make a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.
