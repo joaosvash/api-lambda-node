@@ -10,8 +10,19 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+# EndPoint con las funciones ya desplegadas en el LABMDA con conexion a DYNAMO DB
+
+
+# PARA EL MANEJO DE LA DOCUMENTACION
+
+POSTMAN:
+https://documenter.getpostman.com/view/20866880/Uz5FKwjh
+
+igualmense se procedera a enviarse el archivo fisico por correo
+
+
 # 
-EN EL ARCHIVO MAINTEST encontraran las pruebas unitarias.
+EN EL ARCHIVO MAINTEST encontraran las pruebas unitarias CON MOCHA Y CHIA
 
 
 
