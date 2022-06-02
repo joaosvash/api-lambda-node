@@ -10,6 +10,11 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
+# 
+EN EL ARCHIVO MAINTEST encontraran las pruebas unitarias.
+
+
+
 #Estimados
 El la carpeta SRC es un CRUD realizado con NODE.JS labmda realizado por mi persona, el cual es una guia para llegar a entender los solicitado en la carpeta Swapi, que es donde esta lo correspondiente a lo solicitado en el reto tecnico
 
