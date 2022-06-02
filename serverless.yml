@@ -62,7 +62,12 @@ functions:
         - httpApi:
             path: /swapi/api/people
             method: get
- 
+  getActor:
+    handler: swapi/getActor.getActor
+    events:
+      - httpApi:
+          path: /swapi/api/people/{id}
+          method: get
 resources:
   Resources:
     PeliculaTabla:
